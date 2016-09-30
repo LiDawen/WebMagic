@@ -1,3 +1,5 @@
+package org.lidawen.pageprocesser.pipeline;
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
